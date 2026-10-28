@@ -56,6 +56,7 @@
       </div>
       <div class="wrap footer-bottom">
         <span>© ${new Date().getFullYear()} PSA Renewables Pvt. Ltd. All rights reserved.</span>
+        <a href="credits.html">Photo credits</a>
         <a href="https://incsight.psarenewables.com" target="_blank" rel="noopener">IncSight sign-in</a>
       </div>
     </footer>`);
